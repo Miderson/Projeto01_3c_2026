@@ -1,0 +1,19 @@
+body {background-color: chartreuse;
+}
+h1 {text-align: center;
+    color:#460546;
+    font-size: 400%;
+}
+#ima1 {margin-left: 35%;
+       border-color: black;
+       border-width: 7px;
+       border-style: double;
+}
+
+h2 {text-align: right;
+    border-color: black;
+       border-width: 7px;
+       border-style: double;
+       margin-left: 60%;
+       padding-right: 10%;
+    }
